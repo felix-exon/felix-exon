@@ -1,8 +1,15 @@
-<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deibertf&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dracula" />
+<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deibertf&show_icons=true&count_private=true&hide_rank=true&theme=dracula" />
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deibertf&count_private=true&langs_count=10&layout=compact&theme=dracula" />
+<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deibertf&count_private=true&langs_count=10&layout=compact&theme=dracula" />  
 
 
 
