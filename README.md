@@ -1,7 +1,10 @@
-### Hi there 👋
+<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deibertf&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dracula" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deibertf&count_private=true&langs_count=10&layout=compact&theme=dracula" />
 
 
-<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deibertf&show_icons=true&hide_border=true" />
 
 <!--
 **deibertf/deibertf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
