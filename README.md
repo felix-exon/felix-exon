@@ -1,30 +1,12 @@
-<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deibertf&show_icons=true&count_private=true&hide_rank=true&theme=dracula" />
+ 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deibertf"/>
 
-<img align="left" alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deibertf&count_private=true&langs_count=10&layout=compact&theme=dracula" />  
+<img  alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deibertf&count_private=true&langs_count=10&layout=compact&theme=dracula" /> 
 
+Some things about me:
 
-
-<!--
-**deibertf/deibertf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <a href="https://umbr.app" target="_blank">umbr.app</a>
+- 🌱 I’m currently learning <a href="https://github.com/nuxt/framework">nuxt/framework</a>
+- 👯 I’m looking to collaborate on <b>awesome open-source projects</b>
+- 📫 How to reach me: <a href="https://t.me/f3lixD" taget="_blank">t.me/f3lixD</a>
