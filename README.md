@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felix-exon"/>
 
-<img  alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deibertf&count_private=true&langs_count=10&layout=compact&theme=dracula" /> 
+<img  alt="deibertf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-exon&count_private=true&langs_count=10&layout=compact&theme=dracula" /> 
 
 Some things about me:
 
