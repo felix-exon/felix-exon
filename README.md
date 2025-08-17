@@ -6,7 +6,8 @@
 
 Some things about me:
 
+- 💻 I'm working at <a href="https://pirabyte.io" target="_blank">pirabyte</a>
 - 🔭 I’m currently working on <a href="https://envoix.de" target="_blank">Envoix</a>
-- 🌱 I’m currently learning <a href="https://github.com/nuxt/framework">nuxt/framework</a>
+- 🌱 I’m currently enjoying <a href="https://github.com/nuxt/framework">nuxt/framework</a>
 - 👯 I’m looking to collaborate on <b>awesome open-source projects</b>
 - 📫 How to reach me: <a href="https://t.me/f3lixD" taget="_blank">t.me/f3lixD</a>
